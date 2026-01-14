@@ -22,18 +22,50 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
+    "VLM":
+        filters: [        
+            "Vision-Language Model",
+            "Vision Language Model",
+            "VLM",
+            "LVLM",
+            "Large Vision-Language Model",
+    
+            "Multimodal Large Language Model",
+            "Multi-modal Large Language Model",
+            "MLLM",
+            "MMLM",
+            "Large Multimodal Model"
+        ]
+    "3D Reconstruction":
+        filters: ["SFM", "Structure from Motion", "Structure and Motion",
+                  "3D Reconstruction", "Scene Reconstruction", "3D Geometric"]
+        titles: ["ti:SFM", "ti:Structure from Motion", "ti:Structure and Motion",
+                  "ti:Reconstruction", "ti:Scene Reconstruction", "ti:3D"]
+        categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
+        invert: ["ti:NeRF", "ti:Neural Radiance Field", "ti:Gaussian Splatting", "ti:NGP",
+                 "ti:Medical", "ti:Surgery", "ti:MRI", "ti:GS", "ti:Neural Fields",
+                 "ti:Endoscopic", "abs:GS", "abs:Gaussian Splatting", "ti:X-ray"]
+    "Depth Estimation":
+        filters: ["Depth Estimation", "Monocular Depth Estimation",
+                  "Metric Depth", "Geometry Estimation"]
+        titles: ["ti:Depth", "ti:Monocular", "ti:Metric", "ti:Geometr", "ti:Single"]
+        categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
+        invert: ["ti:NeRF", "ti:Neural Radiance Field", "ti:Gaussian Splatting", "ti:NGP",
+                 "ti:Medical", "ti:Surgery", "ti:MRI", "ti:Reconstruction"]
     "Visual Localization":
         filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
+                  "Camera Relocalization", "Visual Place Recognition",
+                  "Image Retrieval"]
+        titles: ["ti:Localization", "ti:Place Recognition", "ti:localisation","ti:Retrieval",
+                 "ti:APR", "ti:Dof", "ti:Pose Estimation", "ti:Pose Regression", "ti:Coordinate"]
+        categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
+        invert: ["ti:Medical", "ti:Object Pose"]
     "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+        filters: ["Image Matching"]
+        categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
+        invert: ["ti:Medical", "ti:Surgery", "ti:MRI"]
+    "NeRF & Gaussian":
+        filters: ["NeRF", "Neural Radiance Field", "Gaussian Splatting"]
+        titles: ["ti:NeRF", "ti:Radiance", "ti:Field", "ti:Gaussian",
+                 "ti:Splatting"]
+        categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
