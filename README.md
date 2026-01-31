@@ -1,4 +1,4 @@
-## Updated on 2026.01.26
+## Updated on 2026.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1291,7 +1291,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## SFM
 
@@ -2260,12 +2260,17 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**Variance & Greediness: A comparative study of metric-learning losses**|Donghuo Zeng et.al.|[2601.21450](http://arxiv.org/abs/2601.21450)|null|
+|**2026-01-28**|**When Vision Meets Texts in Listwise Reranking**|Hongyi Cai et.al.|[2601.20623](http://arxiv.org/abs/2601.20623)|null|
+|**2026-01-28**|**Eliminating Hallucination in Diffusion-Augmented Interactive Text-to-Image Retrieval**|Zhuocheng Zhang et.al.|[2601.20391](http://arxiv.org/abs/2601.20391)|null|
+|**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](http://arxiv.org/abs/2601.19887)|null|
+|**2026-01-27**|**Pixel-Grounded Retrieval for Knowledgeable Large Multimodal Models**|Jeonghwan Kim et.al.|[2601.19060](http://arxiv.org/abs/2601.19060)|null|
 |**2026-01-23**|**X-Aligner: Composed Visual Retrieval without the Bells and Whistles**|Yuqian Zheng et.al.|[2601.16582](http://arxiv.org/abs/2601.16582)|null|
 |**2026-01-22**|**Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing**|Tingyu Song et.al.|[2601.16125](http://arxiv.org/abs/2601.16125)|null|
 |**2026-01-21**|**Unified Multimodal and Multilingual Retrieval via Multi-Task Learning with NLU Integration**|Xinyuan Zhang et.al.|[2601.14714](http://arxiv.org/abs/2601.14714)|null|
@@ -5138,7 +5143,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -5674,7 +5679,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## Image Matching
 
@@ -7032,7 +7037,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## NeRF
 
@@ -8838,12 +8843,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**UEval: A Benchmark for Unified Multimodal Generation**|Bo Li et.al.|[2601.22155](http://arxiv.org/abs/2601.22155)|null|
+|**2026-01-29**|**Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions**|Xiaoxiao Sun et.al.|[2601.22150](http://arxiv.org/abs/2601.22150)|null|
+|**2026-01-29**|**SINA: A Circuit Schematic Image-to-Netlist Generator Using Artificial Intelligence**|Saoud Aldowaish et.al.|[2601.22114](http://arxiv.org/abs/2601.22114)|null|
+|**2026-01-29**|**VTC-R1: Vision-Text Compression for Efficient Long-Context Reasoning**|Yibo Wang et.al.|[2601.22069](http://arxiv.org/abs/2601.22069)|null|
+|**2026-01-29**|**Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models**|Wenxuan Huang et.al.|[2601.22060](http://arxiv.org/abs/2601.22060)|null|
+|**2026-01-29**|**MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources**|Baorui Ma et.al.|[2601.22054](http://arxiv.org/abs/2601.22054)|null|
+|**2026-01-29**|**Visual-Guided Key-Token Regularization for Multimodal Large Language Model Unlearning**|Chengyi Cai et.al.|[2601.22020](http://arxiv.org/abs/2601.22020)|null|
+|**2026-01-29**|**PaddleOCR-VL-1.5: Towards a Multi-Task 0.9B VLM for Robust In-the-Wild Document Parsing**|Cheng Cui et.al.|[2601.21957](http://arxiv.org/abs/2601.21957)|null|
+|**2026-01-29**|**Clarity: The Flexibility-Interpretability Trade-Off in Sparsity-aware Concept Bottleneck Models**|Konstantinos P. Panousis et.al.|[2601.21944](http://arxiv.org/abs/2601.21944)|null|
+|**2026-01-29**|**VideoAesBench: Benchmarking the Video Aesthetics Perception Capabilities of Large Multimodal Models**|Yunhao Li et.al.|[2601.21915](http://arxiv.org/abs/2601.21915)|null|
 |**2026-01-23**|**VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents**|Zirui Wang et.al.|[2601.16973](http://arxiv.org/abs/2601.16973)|null|
 |**2026-01-23**|**Evaluating Large Vision-language Models for Surgical Tool Detection**|Nakul Poudel et.al.|[2601.16895](http://arxiv.org/abs/2601.16895)|null|
 |**2026-01-23**|**EMemBench: Interactive Benchmarking of Episodic Memory for VLM Agents**|Xinze Li et.al.|[2601.16690](http://arxiv.org/abs/2601.16690)|null|
@@ -8885,12 +8900,22 @@
 |**2026-01-13**|**CoMa: Contextual Massing Generation with Vision-Language Models**|Evgenii Maslov et.al.|[2601.08464](http://arxiv.org/abs/2601.08464)|null|
 |**2026-01-13**|**Real2Sim based on Active Perception with automatically VLM-generated Behavior Trees**|Alessandro Adami et.al.|[2601.08454](http://arxiv.org/abs/2601.08454)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## 3D Reconstruction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources**|Baorui Ma et.al.|[2601.22054](http://arxiv.org/abs/2601.22054)|null|
+|**2026-01-29**|**PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction**|Changjian Jiang et.al.|[2601.22046](http://arxiv.org/abs/2601.22046)|null|
+|**2026-01-29**|**Urban Neural Surface Reconstruction from Constrained Sparse Aerial Imagery with 3D SAR Fusion**|Da Li et.al.|[2601.22045](http://arxiv.org/abs/2601.22045)|null|
+|**2026-01-29**|**Synthetic-to-Real Domain Bridging for Single-View 3D Reconstruction of Ships for Maritime Monitoring**|Borja Carrillo-Perez et.al.|[2601.21786](http://arxiv.org/abs/2601.21786)|null|
+|**2026-01-29**|**From Implicit Ambiguity to Explicit Solidity: Diagnosing Interior Geometric Degradation in Neural Radiance Fields for Dense 3D Scene Understanding**|Jiangsan Zhao et.al.|[2601.21421](http://arxiv.org/abs/2601.21421)|null|
+|**2026-01-28**|**VersaQ-3D: A Reconfigurable Accelerator Enabling Feed-Forward and Generalizable 3D Reconstruction via Versatile Quantization**|Yipu Zhang et.al.|[2601.20317](http://arxiv.org/abs/2601.20317)|null|
+|**2026-01-27**|**Size Matters: Reconstructing Real-Scale 3D Models from Monocular Images for Food Portion Estimation**|Gautham Vinod et.al.|[2601.20051](http://arxiv.org/abs/2601.20051)|null|
+|**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](http://arxiv.org/abs/2601.19887)|null|
+|**2026-01-28**|**GeoDiff3D: Self-Supervised 3D Scene Generation with Geometry-Constrained 2D Diffusion Guidance**|Haozhi Zhu et.al.|[2601.19785](http://arxiv.org/abs/2601.19785)|null|
+|**2026-01-27**|**WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration**|Xinrui Zhang et.al.|[2601.19753](http://arxiv.org/abs/2601.19753)|null|
 |**2026-01-23**|**GPA-VGGT:Adapting VGGT to Large scale Localization by self-Supervised learning with Geometry and Physics Aware loss**|Yangfan Xu et.al.|[2601.16885](http://arxiv.org/abs/2601.16885)|null|
 |**2026-01-23**|**Using Shadows in Circular Synthetic Aperture Sonar Imaging for Target Analysis**|Yann Le Gall et.al.|[2601.16733](http://arxiv.org/abs/2601.16733)|null|
 |**2026-01-22**|**GR3EN: Generative Relighting for 3D Environments**|Xiaoyan Xing et.al.|[2601.16272](http://arxiv.org/abs/2601.16272)|null|
@@ -8927,12 +8952,22 @@
 |**2026-01-09**|**NAS-GS: Noise-Aware Sonar Gaussian Splatting**|Shida Xu et.al.|[2601.06285](http://arxiv.org/abs/2601.06285)|null|
 |**2026-01-09**|**InsSo3D: Inertial Navigation System and 3D Sonar SLAM for turbid environment inspection**|Simon Archieri et.al.|[2601.05805](http://arxiv.org/abs/2601.05805)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## Depth Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources**|Baorui Ma et.al.|[2601.22054](http://arxiv.org/abs/2601.22054)|null|
+|**2026-01-29**|**Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs**|Tom Yates et.al.|[2601.21935](http://arxiv.org/abs/2601.21935)|null|
+|**2026-01-28**|**GVGS: Gaussian Visibility-Aware Multi-View Geometry for Accurate Surface Reconstruction**|Mai Su et.al.|[2601.20331](http://arxiv.org/abs/2601.20331)|null|
+|**2026-01-28**|**Physically Guided Visual Mass Estimation from a Single RGB Image**|Sungjae Lee et.al.|[2601.20303](http://arxiv.org/abs/2601.20303)|null|
+|**2026-01-28**|**Fast Converging 3D Gaussian Splatting for 1-Minute Reconstruction**|Ziyu Zhang et.al.|[2601.19489](http://arxiv.org/abs/2601.19489)|null|
+|**2026-01-27**|**Towards Gold-Standard Depth Estimation for Tree Branches in UAV Forestry: Benchmarking Deep Stereo Matching Methods**|Yida Lin et.al.|[2601.19461](http://arxiv.org/abs/2601.19461)|null|
+|**2026-01-27**|**MIRAGE: Enabling Real-Time Automotive Mediated Reality**|Pascal Jansen et.al.|[2601.19385](http://arxiv.org/abs/2601.19385)|null|
+|**2026-01-27**|**Instance-Guided Radar Depth Estimation for 3D Object Detection**|Chen-Chou Lo et.al.|[2601.19314](http://arxiv.org/abs/2601.19314)|null|
+|**2026-01-26**|**On the Role of Depth in Surgical Vision Foundation Models: An Empirical Study of RGB-D Pre-training**|John J. Han et.al.|[2601.18929](http://arxiv.org/abs/2601.18929)|null|
+|**2026-01-25**|**Masked Depth Modeling for Spatial Perception**|Bin Tan et.al.|[2601.17895](http://arxiv.org/abs/2601.17895)|null|
 |**2026-01-23**|**AnchoredDream: Zero-Shot 360° Indoor Scene Generation from a Single View via Geometric Grounding**|Runmao Yao et.al.|[2601.16532](http://arxiv.org/abs/2601.16532)|null|
 |**2026-01-21**|**RayRoPE: Projective Ray Positional Encoding for Multi-view Attention**|Yu Wu et.al.|[2601.15275](http://arxiv.org/abs/2601.15275)|null|
 |**2026-01-16**|**studentSplat: Your Student Model Learns Single-view 3D Gaussian Splatting**|Yimu Pan et.al.|[2601.11772](http://arxiv.org/abs/2601.11772)|null|
@@ -8950,12 +8985,22 @@
 |**2026-01-06**|**VLM4VLA: Revisiting Vision-Language-Models in Vision-Language-Action Models**|Jianke Zhang et.al.|[2601.03309](http://arxiv.org/abs/2601.03309)|null|
 |**2026-01-06**|**InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields**|Hao Yu et.al.|[2601.03252](http://arxiv.org/abs/2601.03252)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction**|Changjian Jiang et.al.|[2601.22046](http://arxiv.org/abs/2601.22046)|null|
+|**2026-01-29**|**Hybrid Foveated Path Tracing with Peripheral Gaussians for Immersive Anatomy**|Constantin Kleinbeck et.al.|[2601.22026](http://arxiv.org/abs/2601.22026)|null|
+|**2026-01-29**|**From Implicit Ambiguity to Explicit Solidity: Diagnosing Interior Geometric Degradation in Neural Radiance Fields for Dense 3D Scene Understanding**|Jiangsan Zhao et.al.|[2601.21421](http://arxiv.org/abs/2601.21421)|null|
+|**2026-01-29**|**Lightweight High-Fidelity Low-Bitrate Talking Face Compression for 3D Video Conference**|Jianglong Li et.al.|[2601.21269](http://arxiv.org/abs/2601.21269)|null|
+|**2026-01-28**|**FreeFix: Boosting 3D Gaussian Splatting via Fine-Tuning-Free Diffusion Models**|Hongyu Zhou et.al.|[2601.20857](http://arxiv.org/abs/2601.20857)|null|
+|**2026-01-28**|**GRTX: Efficient Ray Tracing for 3D Gaussian-Based Rendering**|Junseo Lee et.al.|[2601.20429](http://arxiv.org/abs/2601.20429)|null|
+|**2026-01-28**|**GVGS: Gaussian Visibility-Aware Multi-View Geometry for Accurate Surface Reconstruction**|Mai Su et.al.|[2601.20331](http://arxiv.org/abs/2601.20331)|null|
+|**2026-01-27**|**Graphical X Splatting (GraphiXS): A Graphical Model for 4D Gaussian Splatting under Uncertainty**|Doga Yilmaz et.al.|[2601.19843](http://arxiv.org/abs/2601.19843)|null|
+|**2026-01-27**|**WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration**|Xinrui Zhang et.al.|[2601.19753](http://arxiv.org/abs/2601.19753)|null|
+|**2026-01-28**|**Fast Converging 3D Gaussian Splatting for 1-Minute Reconstruction**|Ziyu Zhang et.al.|[2601.19489](http://arxiv.org/abs/2601.19489)|null|
 |**2026-01-23**|**A Step to Decouple Optimization in 3DGS**|Renjie Ding et.al.|[2601.16736](http://arxiv.org/abs/2601.16736)|null|
 |**2026-01-23**|**ReWeaver: Towards Simulation-Ready and Topology-Accurate Garment Reconstruction**|Ming Li et.al.|[2601.16672](http://arxiv.org/abs/2601.16672)|null|
 |**2026-01-23**|**Multi-View Consistent Wound Segmentation With Neural Fields**|Remi Chierchia et.al.|[2601.16487](http://arxiv.org/abs/2601.16487)|null|
@@ -8986,7 +9031,7 @@
 |**2026-01-09**|**NAS-GS: Noise-Aware Sonar Gaussian Splatting**|Shida Xu et.al.|[2601.06285](http://arxiv.org/abs/2601.06285)|null|
 |**2026-01-09**|**LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting**|Yinghan Xu et.al.|[2601.05853](http://arxiv.org/abs/2601.05853)|null|
 
-<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260131>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
