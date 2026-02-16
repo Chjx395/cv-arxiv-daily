@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.11
+## Updated on 2026.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2250,6 +2250,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**EPRBench: A High-Quality Benchmark Dataset for Event Stream Based Visual Place Recognition**|Xiao Wang et.al.|[2602.12919](http://arxiv.org/abs/2602.12919)|null|
+|**2026-02-12**|**DiffPlace: Street View Generation via Place-Controllable Diffusion Model Enhancing Place Recognition**|Ji Li et.al.|[2602.11875](http://arxiv.org/abs/2602.11875)|null|
+|**2026-02-12**|**Arbitrary Ratio Feature Compression via Next Token Prediction**|Yufan Liu et.al.|[2602.11494](http://arxiv.org/abs/2602.11494)|null|
+|**2026-02-11**|**DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories**|Chenlong Deng et.al.|[2602.10809](http://arxiv.org/abs/2602.10809)|null|
 |**2026-02-09**|**OSCAR: Optimization-Steered Agentic Planning for Composed Image Retrieval**|Teng Wang et.al.|[2602.08603](http://arxiv.org/abs/2602.08603)|null|
 |**2026-02-09**|**A Sketch+Text Composed Image Retrieval Dataset for Thangka**|Jinyu Xu et.al.|[2602.08411](http://arxiv.org/abs/2602.08411)|null|
 |**2026-02-09**|**UrbanGraphEmbeddings: Learning and Evaluating Spatially Grounded Multimodal Embeddings for Urban Science**|Jie Zhang et.al.|[2602.08342](http://arxiv.org/abs/2602.08342)|null|
@@ -5679,6 +5683,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Matching of SAR and optical images based on transformation to shared modality**|Alexey Borisov et.al.|[2602.12515](http://arxiv.org/abs/2602.12515)|null|
 |**2026-02-09**|**Understanding and Optimizing Attention-Based Sparse Matching for Diverse Local Features**|Qiang Wang et.al.|[2602.08430](http://arxiv.org/abs/2602.08430)|null|
 |**2026-01-31**|**Gaussian-Constrained LeJEPA Representations for Unsupervised Scene Discovery and Pose Consistency**|Mohsen Mostafa et.al.|[2602.07016](http://arxiv.org/abs/2602.07016)|null|
 |**2026-02-05**|**SOMA-1M: A Large-Scale SAR-Optical Multi-resolution Alignment Dataset for Multi-Task Remote Sensing**|Peihao Wu et.al.|[2602.05480](http://arxiv.org/abs/2602.05480)|null|
@@ -8843,6 +8848,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control**|William Chen et.al.|[2602.13193](http://arxiv.org/abs/2602.13193)|null|
+|**2026-02-13**|**Fix Before Search: Benchmarking Agentic Query Visual Pre-processing in Multimodal Retrieval-augmented Generation**|Jiankun Zhang et.al.|[2602.13179](http://arxiv.org/abs/2602.13179)|null|
+|**2026-02-13**|**Implicit-Scale 3D Reconstruction for Multi-Food Volume Estimation from Monocular Images**|Yuhao Chen et.al.|[2602.13041](http://arxiv.org/abs/2602.13041)|null|
+|**2026-02-13**|**Human-Aligned MLLM Judges for Fine-Grained Image Editing Evaluation: A Benchmark, Framework, and Analysis**|Runzhou Liu et.al.|[2602.13028](http://arxiv.org/abs/2602.13028)|null|
+|**2026-02-13**|**Towards Universal Video MLLMs with Attribute-Structured and Quality-Verified Instructions**|Yunheng Li et.al.|[2602.13013](http://arxiv.org/abs/2602.13013)|null|
+|**2026-02-13**|**Training-Free Acceleration for Document Parsing Vision-Language Model with Hierarchical Speculative Decoding**|Wenhui Liao et.al.|[2602.12957](http://arxiv.org/abs/2602.12957)|null|
+|**2026-02-13**|**HoRAMA: Holistic Reconstruction with Automated Material Assignment for Ray Tracing using NYURay**|Mingjun Ying et.al.|[2602.12942](http://arxiv.org/abs/2602.12942)|null|
+|**2026-02-13**|**Unleashing MLLMs on the Edge: A Unified Framework for Cross-Modal ReID via Adaptive SVD Distillation**|Hongbo Jiang et.al.|[2602.12936](http://arxiv.org/abs/2602.12936)|null|
+|**2026-02-13**|**Reliable Thinking with Images**|Haobin Li et.al.|[2602.12916](http://arxiv.org/abs/2602.12916)|null|
+|**2026-02-13**|**RADAR: Revealing Asymmetric Development of Abilities in MLLM Pre-training**|Yunshuang Nie et.al.|[2602.12892](http://arxiv.org/abs/2602.12892)|null|
 |**2026-02-10**|**Code2World: A GUI World Model via Renderable Code Generation**|Yuhao Zheng et.al.|[2602.09856](http://arxiv.org/abs/2602.09856)|null|
 |**2026-02-10**|**Reason-IAD: Knowledge-Guided Dynamic Latent Reasoning for Explainable Industrial Anomaly Detection**|Peng Chen et.al.|[2602.09850](http://arxiv.org/abs/2602.09850)|null|
 |**2026-02-10**|**Kelix Technique Report**|Boyang Ding et.al.|[2602.09843](http://arxiv.org/abs/2602.09843)|null|
@@ -8918,6 +8933,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**LongStream: Long-Sequence Streaming Autoregressive Visual Geometry**|Chong Cheng et.al.|[2602.13172](http://arxiv.org/abs/2602.13172)|null|
+|**2026-02-13**|**Implicit-Scale 3D Reconstruction for Multi-Food Volume Estimation from Monocular Images**|Yuhao Chen et.al.|[2602.13041](http://arxiv.org/abs/2602.13041)|null|
+|**2026-02-13**|**HoRAMA: Holistic Reconstruction with Automated Material Assignment for Ray Tracing using NYURay**|Mingjun Ying et.al.|[2602.12942](http://arxiv.org/abs/2602.12942)|null|
+|**2026-02-13**|**Monocular Reconstruction of Neural Tactile Fields**|Pavan Mantripragada et.al.|[2602.12508](http://arxiv.org/abs/2602.12508)|null|
+|**2026-02-11**|**Ctrl&Shift: High-Quality Geometry-Aware Object Manipulation in Visual Generation**|Penghui Ruan et.al.|[2602.11440](http://arxiv.org/abs/2602.11440)|null|
+|**2026-02-11**|**Using a 4-megapixel hybrid photon counting detector for fast, lab-based nanoscale x-ray tomography**|Jordan Fonseca et.al.|[2602.11375](http://arxiv.org/abs/2602.11375)|null|
+|**2026-02-10**|**ERGO: Excess-Risk-Guided Optimization for High-Fidelity Monocular 3D Gaussian Splatting**|Zehua Ma et.al.|[2602.10278](http://arxiv.org/abs/2602.10278)|null|
+|**2026-02-10**|**XSPLAIN: XAI-enabling Splat-based Prototype Learning for Attribute-aware INterpretability**|Dominik Galus et.al.|[2602.10239](http://arxiv.org/abs/2602.10239)|null|
+|**2026-02-10**|**Robo3R: Enhancing Robotic Manipulation with Accurate Feed-Forward 3D Reconstruction**|Sizhe Yang et.al.|[2602.10101](http://arxiv.org/abs/2602.10101)|null|
+|**2026-02-10**|**SARS: A Novel Face and Body Shape and Appearance Aware 3D Reconstruction System extends Morphable Models**|Gulraiz Khan et.al.|[2602.09918](http://arxiv.org/abs/2602.09918)|null|
 |**2026-02-10**|**Single-Slice-to-3D Reconstruction in Medical Imaging and Natural Objects: A Comparative Benchmark with SAM 3D**|Yan Luo et.al.|[2602.09407](http://arxiv.org/abs/2602.09407)|null|
 |**2026-02-09**|**GOT-Edit: Geometry-Aware Generic Object Tracking via Online Model Editing**|Shih-Fang Chen et.al.|[2602.08550](http://arxiv.org/abs/2602.08550)|null|
 |**2026-02-09**|**Reliability-aware Execution Gating for Near-field and Off-axis Vision-guided Robotic Alignment**|Ning Hu et.al.|[2602.08466](http://arxiv.org/abs/2602.08466)|null|
@@ -8988,10 +9013,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**GSO-SLAM: Bidirectionally Coupled Gaussian Splatting and Direct Visual Odometry**|Jiung Yeon et.al.|[2602.11714](http://arxiv.org/abs/2602.11714)|null|
+|**2026-02-11**|**MDE-VIO: Enhancing Visual-Inertial Odometry Using Learned Depth Priors**|Arda Alniak et.al.|[2602.11323](http://arxiv.org/abs/2602.11323)|null|
+|**2026-02-11**|**PuriLight: A Lightweight Shuffle and Purification Framework for Monocular Depth Estimation**|Yujie Chen et.al.|[2602.11066](http://arxiv.org/abs/2602.11066)|null|
+|**2026-02-11**|**Interpretable Vision Transformers in Monocular Depth Estimation via SVDA**|Vasileios Arampatzakis et.al.|[2602.11005](http://arxiv.org/abs/2602.11005)|null|
+|**2026-02-11**|**AugVLA-3D: Depth-Driven Feature Augmentation for Vision-Language-Action Models**|Zhifeng Rao et.al.|[2602.10698](http://arxiv.org/abs/2602.10698)|null|
+|**2026-02-10**|**VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization**|Yikun Liu et.al.|[2602.09934](http://arxiv.org/abs/2602.09934)|null|
 |**2026-02-10**|**RAD: Retrieval-Augmented Monocular Metric Depth Estimation for Underrepresented Classes**|Michael Baltaxe et.al.|[2602.09532](http://arxiv.org/abs/2602.09532)|null|
 |**2026-02-09**|**Forest canopy height estimation from satellite RGB imagery using large-scale airborne LiDAR-derived training data and monocular depth estimation**|Yongkang Lai et.al.|[2602.06503](http://arxiv.org/abs/2602.06503)|null|
 |**2026-02-05**|**AnyThermal: Towards Learning Universal Representations for Thermal Perception**|Parv Maheshwari et.al.|[2602.06203](http://arxiv.org/abs/2602.06203)|null|
-|**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
+|**2026-02-11**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|null|
 |**2026-02-05**|**Depth as Prior Knowledge for Object Detection**|Moussa Kassem Sbeyti et.al.|[2602.05730](http://arxiv.org/abs/2602.05730)|null|
 |**2026-02-05**|**UniSurg: A Video-Native Foundation Model for Universal Understanding of Surgical Videos**|Jinlin Wu et.al.|[2602.05638](http://arxiv.org/abs/2602.05638)|null|
 |**2026-02-05**|**Depth estimation of a monoharmonic source using a vertical linear array at fixed distance**|Yangjin Xu et.al.|[2602.05560](http://arxiv.org/abs/2602.05560)|null|
@@ -9033,6 +9064,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**GSM-GS: Geometry-Constrained Single and Multi-view Gaussian Splatting for Surface Reconstruction**|Xiao Ren et.al.|[2602.12796](http://arxiv.org/abs/2602.12796)|null|
+|**2026-02-12**|**LatentAM: Real-Time, Large-Scale Latent Gaussian Attention Mapping via Online Dictionary Learning**|Junwoon Lee et.al.|[2602.12314](http://arxiv.org/abs/2602.12314)|null|
+|**2026-02-12**|**3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting**|Wancai Zheng et.al.|[2602.12159](http://arxiv.org/abs/2602.12159)|null|
+|**2026-02-12**|**GSO-SLAM: Bidirectionally Coupled Gaussian Splatting and Direct Visual Odometry**|Jiung Yeon et.al.|[2602.11714](http://arxiv.org/abs/2602.11714)|null|
+|**2026-02-12**|**TG-Field: Geometry-Aware Radiative Gaussian Fields for Tomographic Reconstruction**|Yuxiang Zhong et.al.|[2602.11705](http://arxiv.org/abs/2602.11705)|null|
+|**2026-02-13**|**Variation-aware Flexible 3D Gaussian Editing**|Hao Qin et.al.|[2602.11638](http://arxiv.org/abs/2602.11638)|null|
+|**2026-02-12**|**LeafFit: Plant Assets Creation from 3D Gaussian Splatting**|Chang Luo et.al.|[2602.11577](http://arxiv.org/abs/2602.11577)|null|
+|**2026-02-12**|**ReaDy-Go: Real-to-Sim Dynamic 3D Gaussian Splatting Simulation for Environment-Specific Visual Navigation with Moving Obstacles**|Seungyeon Yoo et.al.|[2602.11575](http://arxiv.org/abs/2602.11575)|null|
+|**2026-02-11**|**Towards Learning a Generalizable 3D Scene Representation from 2D Observations**|Martin Gromniak et.al.|[2602.10943](http://arxiv.org/abs/2602.10943)|null|
+|**2026-02-10**|**ERGO: Excess-Risk-Guided Optimization for High-Fidelity Monocular 3D Gaussian Splatting**|Zehua Ma et.al.|[2602.10278](http://arxiv.org/abs/2602.10278)|null|
 |**2026-02-10**|**CompSplat: Compression-aware 3D Gaussian Splatting for Real-world Video**|Hojun Song et.al.|[2602.09816](http://arxiv.org/abs/2602.09816)|null|
 |**2026-02-10**|**Toward Fine-Grained Facial Control in 3D Talking Head Generation**|Shaoyang Xie et.al.|[2602.09736](http://arxiv.org/abs/2602.09736)|null|
 |**2026-02-10**|**Stability and Concentration in Nonlinear Inverse Problems with Block-Structured Parameters: Lipschitz Geometry, Identifiability, and an Application to Gaussian Splatting**|Joe-Mei Feng et.al.|[2602.09415](http://arxiv.org/abs/2602.09415)|null|
