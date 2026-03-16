@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.11
+## Updated on 2026.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2250,6 +2250,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks**|Tangzheng Lian et.al.|[2603.12998](http://arxiv.org/abs/2603.12998)|null|
+|**2026-03-13**|**Text-Phase Synergy Network with Dual Priors for Unsupervised Cross-Domain Image Retrieval**|Jing Yang et.al.|[2603.12711](http://arxiv.org/abs/2603.12711)|null|
+|**2026-03-13**|**CM-Bench: A Comprehensive Cross-Modal Feature Matching Benchmark Bridging Visible and Infrared Images**|Liangzheng Sun et.al.|[2603.12690](http://arxiv.org/abs/2603.12690)|null|
+|**2026-03-12**|**FBCIR: Balancing Cross-Modal Focuses in Composed Image Retrieval**|Chenchen Zhao et.al.|[2603.11520](http://arxiv.org/abs/2603.11520)|null|
+|**2026-03-12**|**Efficient Cross-View Localization in 6G Space-Air-Ground Integrated Network**|Min Hao et.al.|[2603.11398](http://arxiv.org/abs/2603.11398)|null|
 |**2026-03-10**|**Composed Vision-Language Retrieval for Skin Cancer Case Search via Joint Alignment of Global and Local Representations**|Yuheng Wang et.al.|[2603.09108](http://arxiv.org/abs/2603.09108)|null|
 |**2026-03-09**|**$L^3$ :Scene-agnostic Visual Localization in the Wild**|Yu Zhang et.al.|[2603.07937](http://arxiv.org/abs/2603.07937)|null|
 |**2026-03-08**|**QdaVPR: A novel query-based domain-agnostic model for visual place recognition**|Shanshan Wan et.al.|[2603.07414](http://arxiv.org/abs/2603.07414)|null|
@@ -5707,10 +5712,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**CM-Bench: A Comprehensive Cross-Modal Feature Matching Benchmark Bridging Visible and Infrared Images**|Liangzheng Sun et.al.|[2603.12690](http://arxiv.org/abs/2603.12690)|null|
 |**2026-03-09**|**Enhancing Cross-View UAV Geolocalization via LVLM-Driven Relational Modeling**|Bowen Liu et.al.|[2603.08063](http://arxiv.org/abs/2603.08063)|null|
 |**2026-02-27**|**No Calibration, No Depth, No Problem: Cross-Sensor View Synthesis with 3D Consistency**|Cho-Ying Wu et.al.|[2602.23559](http://arxiv.org/abs/2602.23559)|null|
 |**2026-02-13**|**Matching of SAR and optical images based on transformation to shared modality**|Alexey Borisov et.al.|[2602.12515](http://arxiv.org/abs/2602.12515)|null|
-|**2026-02-09**|**Understanding and Optimizing Attention-Based Sparse Matching for Diverse Local Features**|Qiang Wang et.al.|[2602.08430](http://arxiv.org/abs/2602.08430)|null|
+|**2026-03-12**|**Understanding and Optimizing Attention-Based Sparse Matching for Diverse Local Features**|Qiang Wang et.al.|[2602.08430](http://arxiv.org/abs/2602.08430)|null|
 |**2026-01-31**|**Gaussian-Constrained LeJEPA Representations for Unsupervised Scene Discovery and Pose Consistency**|Mohsen Mostafa et.al.|[2602.07016](http://arxiv.org/abs/2602.07016)|null|
 |**2026-02-05**|**SOMA-1M: A Large-Scale SAR-Optical Multi-resolution Alignment Dataset for Multi-Task Remote Sensing**|Peihao Wu et.al.|[2602.05480](http://arxiv.org/abs/2602.05480)|null|
 |**2026-02-04**|**Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition**|Dhyey Manish Rajani et.al.|[2602.04401](http://arxiv.org/abs/2602.04401)|null|
@@ -8874,6 +8880,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Visual-ERM: Reward Modeling for Visual Equivalence**|Ziyu Liu et.al.|[2603.13224](http://arxiv.org/abs/2603.13224)|null|
+|**2026-03-13**|**Navig-AI-tion: Navigation by Contextual AI and Spatial Audio**|Mathias N. Lystbæk et.al.|[2603.13200](http://arxiv.org/abs/2603.13200)|null|
+|**2026-03-13**|**Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos**|Rohith Peddi et.al.|[2603.13185](http://arxiv.org/abs/2603.13185)|null|
+|**2026-03-13**|**Geometry-Guided Camera Motion Understanding in VideoLLMs**|Haoan Feng et.al.|[2603.13119](http://arxiv.org/abs/2603.13119)|null|
+|**2026-03-13**|**Evaluating VLMs' Spatial Reasoning Over Robot Motion: A Step Towards Robot Planning with Motion Preferences**|Wenxi Wu et.al.|[2603.13100](http://arxiv.org/abs/2603.13100)|null|
+|**2026-03-13**|**Beyond Final Answers: CRYSTAL Benchmark for Transparent Multimodal Reasoning Evaluation**|Wayner Barrios et.al.|[2603.13099](http://arxiv.org/abs/2603.13099)|null|
+|**2026-03-13**|**Reasoning over Video: Evaluating How MLLMs Extract, Integrate, and Reconstruct Spatiotemporal Evidence**|Seunghwan Bang et.al.|[2603.13091](http://arxiv.org/abs/2603.13091)|null|
+|**2026-03-13**|**Topo-R1: Detecting Topological Anomalies via Vision-Language Models**|Meilong Xu et.al.|[2603.13054](http://arxiv.org/abs/2603.13054)|null|
+|**2026-03-13**|**ESPIRE: A Diagnostic Benchmark for Embodied Spatial Reasoning of Vision-Language Models**|Yanpeng Zhao et.al.|[2603.13033](http://arxiv.org/abs/2603.13033)|null|
+|**2026-03-13**|**A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks**|Tangzheng Lian et.al.|[2603.12998](http://arxiv.org/abs/2603.12998)|null|
 |**2026-03-10**|**BEACON: Language-Conditioned Navigation Affordance Prediction under Occlusion**|Xinyu Gao et.al.|[2603.09961](http://arxiv.org/abs/2603.09961)|null|
 |**2026-03-10**|**PathMem: Toward Cognition-Aligned Memory Transformation for Pathology MLLMs**|Jinyue Li et.al.|[2603.09943](http://arxiv.org/abs/2603.09943)|null|
 |**2026-03-10**|**MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems**|Yunhang Qian et.al.|[2603.09909](http://arxiv.org/abs/2603.09909)|null|
@@ -8989,6 +9005,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos**|Rohith Peddi et.al.|[2603.13185](http://arxiv.org/abs/2603.13185)|null|
+|**2026-03-13**|**3DTCR: A Physics-Based Generative Framework for Vortex-Following 3D Reconstruction to Improve Tropical Cyclone Intensity Forecasting**|Jun Liu et.al.|[2603.13049](http://arxiv.org/abs/2603.13049)|null|
+|**2026-03-13**|**RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics**|Yuzhi Huang et.al.|[2603.12939](http://arxiv.org/abs/2603.12939)|null|
+|**2026-03-13**|**Spectral-Geometric Neural Fields for Pose-Free LiDAR View Synthesis**|Yinuo Jiang et.al.|[2603.12903](http://arxiv.org/abs/2603.12903)|null|
+|**2026-03-13**|**Coherent Human-Scene Reconstruction from Multi-Person Multi-View Video in a Single Pass**|Sangmin Kim et.al.|[2603.12789](http://arxiv.org/abs/2603.12789)|null|
+|**2026-03-13**|**CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration**|Dongxu Zhang et.al.|[2603.12721](http://arxiv.org/abs/2603.12721)|null|
+|**2026-03-13**|**Marker-Based 3D Reconstruction of Aggregates with a Comparative Analysis of 2D and 3D Morphologies**|Haohang Huang et.al.|[2603.12667](http://arxiv.org/abs/2603.12667)|null|
+|**2026-03-13**|**LR-SGS: Robust LiDAR-Reflectance-Guided Salient Gaussian Splatting for Self-Driving Scene Reconstruction**|Ziyu Chen et.al.|[2603.12647](http://arxiv.org/abs/2603.12647)|null|
+|**2026-03-12**|**Dense Dynamic Scene Reconstruction and Camera Pose Estimation from Multi-View Videos**|Shuo Sun et.al.|[2603.12064](http://arxiv.org/abs/2603.12064)|null|
+|**2026-03-12**|**Single-View Rolling-Shutter SfM**|Sofía Errázuriz Muñoz et.al.|[2603.11888](http://arxiv.org/abs/2603.11888)|null|
 |**2026-03-10**|**ReCoSplat: Autoregressive Feed-Forward Gaussian Splatting Using Render-and-Compare**|Freeman Cheng et.al.|[2603.09968](http://arxiv.org/abs/2603.09968)|null|
 |**2026-03-10**|**Resolved molecular gas and star-formation in massive unquenched spirals : I. UGC 8179**|Romane Cologni et.al.|[2603.09917](http://arxiv.org/abs/2603.09917)|null|
 |**2026-03-10**|**World2Mind: Cognition Toolkit for Allocentric Spatial Reasoning in Foundation Models**|Shouwei Ruan et.al.|[2603.09774](http://arxiv.org/abs/2603.09774)|null|
@@ -9099,6 +9125,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**DVD: Deterministic Video Depth Estimation with Generative Priors**|Hongfei Zhang et.al.|[2603.12250](http://arxiv.org/abs/2603.12250)|null|
+|**2026-03-12**|**R4Det: 4D Radar-Camera Fusion for High-Performance 3D Object Detection**|Zhongyu Xia et.al.|[2603.11566](http://arxiv.org/abs/2603.11566)|null|
+|**2026-03-11**|**WalkGPT: Grounded Vision-Language Conversation with Depth-Aware Segmentation for Pedestrian Navigation**|Rafi Ibn Sultan et.al.|[2603.10703](http://arxiv.org/abs/2603.10703)|null|
+|**2026-03-11**|**Splat2Real: Novel-view Scaling for Physical AI with 3D Gaussian Splatting**|Hansol Lim et.al.|[2603.10638](http://arxiv.org/abs/2603.10638)|null|
+|**2026-03-11**|**AsyncMDE: Real-Time Monocular Depth Estimation via Asynchronous Spatial Memory**|Lianjie Ma et.al.|[2603.10438](http://arxiv.org/abs/2603.10438)|null|
 |**2026-03-10**|**SurgFed: Language-guided Multi-Task Federated Learning for Surgical Video Understanding**|Zheng Fang et.al.|[2603.09496](http://arxiv.org/abs/2603.09496)|null|
 |**2026-03-10**|**EventVGGT: Exploring Cross-Modal Distillation for Consistent Event-based Depth Estimation**|Yinrui Ren et.al.|[2603.09385](http://arxiv.org/abs/2603.09385)|null|
 |**2026-03-10**|**SpaceSense-Bench: A Large-Scale Multi-Modal Benchmark for Spacecraft Perception and Pose Estimation**|Aodi Wu et.al.|[2603.09320](http://arxiv.org/abs/2603.09320)|null|
@@ -9170,6 +9201,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Spectral-Geometric Neural Fields for Pose-Free LiDAR View Synthesis**|Yinuo Jiang et.al.|[2603.12903](http://arxiv.org/abs/2603.12903)|null|
+|**2026-03-13**|**Spectral Defense Against Resource-Targeting Attack in 3D Gaussian Splatting**|Yang Chen et.al.|[2603.12796](http://arxiv.org/abs/2603.12796)|null|
+|**2026-03-13**|**Catalyst4D: High-Fidelity 3D-to-4D Scene Editing via Dynamic Propagation**|Shifeng Chen et.al.|[2603.12766](http://arxiv.org/abs/2603.12766)|null|
+|**2026-03-13**|**LR-SGS: Robust LiDAR-Reflectance-Guided Salient Gaussian Splatting for Self-Driving Scene Reconstruction**|Ziyu Chen et.al.|[2603.12647](http://arxiv.org/abs/2603.12647)|null|
+|**2026-03-13**|**Node-RF: Learning Generalized Continuous Space-Time Scene Dynamics with Neural ODE-based NeRFs**|Hiran Sarkar et.al.|[2603.12078](http://arxiv.org/abs/2603.12078)|null|
+|**2026-03-12**|**AstroSplat: Physics-Based Gaussian Splatting for Rendering and Reconstruction of Small Celestial Bodies**|Jennifer Nolan et.al.|[2603.11969](http://arxiv.org/abs/2603.11969)|null|
+|**2026-03-12**|**Mango-GS: Enhancing Spatio-Temporal Consistency in Dynamic Scenes Reconstruction using Multi-Frame Node-Guided 4D Gaussian Splatting**|Tingxuan Huang et.al.|[2603.11543](http://arxiv.org/abs/2603.11543)|null|
+|**2026-03-12**|**Mobile-GS: Real-time Gaussian Splatting for Mobile Devices**|Xiaobiao Du et.al.|[2603.11531](http://arxiv.org/abs/2603.11531)|null|
+|**2026-03-11**|**InstantHDR: Single-forward Gaussian Splatting for High Dynamic Range 3D Reconstruction**|Dingqiang Ye et.al.|[2603.11298](http://arxiv.org/abs/2603.11298)|null|
+|**2026-03-11**|**S2D: Sparse to Dense Lifting for 3D Reconstruction with Minimal Inputs**|Yuzhou Ji et.al.|[2603.10893](http://arxiv.org/abs/2603.10893)|null|
 |**2026-03-10**|**ReCoSplat: Autoregressive Feed-Forward Gaussian Splatting Using Render-and-Compare**|Freeman Cheng et.al.|[2603.09968](http://arxiv.org/abs/2603.09968)|null|
 |**2026-03-10**|**GSStream: 3D Gaussian Splatting based Volumetric Scene Streaming System**|Zhiye Tang et.al.|[2603.09718](http://arxiv.org/abs/2603.09718)|null|
 |**2026-03-10**|**ProGS: Towards Progressive Coding for 3D Gaussian Splatting**|Zhiye Tang et.al.|[2603.09703](http://arxiv.org/abs/2603.09703)|null|
